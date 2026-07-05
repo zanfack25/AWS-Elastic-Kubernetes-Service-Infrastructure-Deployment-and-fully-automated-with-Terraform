@@ -19,7 +19,7 @@ The project follows Infrastructure as Code (IaC) principles to provision and man
   EKS and Terraform. This infrastructure enables scalability, high availability, and security, all
   managed as Infrastructure as Code (IaC).
 
-## Technical Objective: Design and deploy an intermediate-level cloud-native Kubernetes platform that:
+## Technical Objective: Design and deploy a fully automated cloud-native infrastructure with Amazon Elastic Kubernetes Service (EKS).
 
 Automates infrastructure provisioning using Terraform
 Deploys a managed Kubernetes cluster with Amazon EKS
@@ -120,10 +120,11 @@ Key Features:
 
 <img width="2048" height="707" alt="image" src="https://github.com/user-attachments/assets/81120000-64ac-4405-82d1-86813e1a52dd" />
 
+       
+# AWS Services Used
 
 
-                  
-# AWS Services Used| Service                      | Purpose                                      |
+| Service                      | Purpose                                      |
 | ---------------------------- | -------------------------------------------- |
 | **Amazon EKS**               | Managed Kubernetes cluster                   |
 | **Amazon EC2**               | Kubernetes worker nodes                      |
