@@ -168,6 +168,16 @@ Key Features:
    - Secure cluster authentication
 
 
+
+<img width="890" height="406" alt="EKS-Deployment-terraform-Apply-completed" src="https://github.com/user-attachments/assets/21829e4a-7559-4230-9214-6bce19cb0689" />
+
+<img width="886" height="409" alt="terraform-apply-sample-output" src="https://github.com/user-attachments/assets/6cf33388-7453-4dfa-957b-0b1eda59fc74" />
+
+
+<img width="881" height="407" alt="terraform-apply-sample-output-node-group" src="https://github.com/user-attachments/assets/790a450a-bad9-4f24-8881-23d2877b1085" />
+
+
+
 <img width="1776" height="789" alt="image" src="https://github.com/user-attachments/assets/72633e74-a617-43a7-b4b9-5a879971dfe6" />
 
 
@@ -480,6 +490,10 @@ accessed via the public LoadBalancer endpoint.
 2. Pushed the container to ECR
 
 <img width="1810" height="787" alt="image" src="https://github.com/user-attachments/assets/f0f15ef8-5103-42d4-bf81-1343df4b3ef9" />
+
+
+<img width="914" height="407" alt="verify-docker-image-push-to-ECR" src="https://github.com/user-attachments/assets/56093902-b400-466e-a473-8bca6ecc5e98" />
+
 
 3. Deploy to EKS:​
   ○​ Kubernetes deployment and service manifests applied​
