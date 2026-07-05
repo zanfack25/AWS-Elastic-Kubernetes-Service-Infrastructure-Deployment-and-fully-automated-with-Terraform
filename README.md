@@ -85,7 +85,11 @@ This ensured consistency across environments and simplified future updates.
 Key Features:
 ●​ Infrastructure as Code (IaC)​
 ●​ Modular and version-controlled​
-●​ Used to provision VPC, EKS, Node Groups, IAM, and networking​
+●​ Used to provision VPC, EKS, Node Groups, IAM, and networking
+
+
+
+​
 
 # Architecture
 
@@ -163,6 +167,12 @@ Key Features:
    - High availability by default
    - Secure cluster authentication
 
+
+<img width="1776" height="789" alt="image" src="https://github.com/user-attachments/assets/72633e74-a617-43a7-b4b9-5a879971dfe6" />
+
+
+
+
 # Kubernetes Node Groups
 
 ## Implemented managed node groups running on Amazon EC2.
@@ -183,6 +193,13 @@ Key Features:
 | Maximum Nodes | 5         |
 
 
+<img width="1788" height="715" alt="image" src="https://github.com/user-attachments/assets/fc6c8001-ef37-41b6-a425-83839ee7b289" />
+
+<img width="1387" height="214" alt="image" src="https://github.com/user-attachments/assets/ee6f3b61-34cc-4ffa-9802-db48ac776cca" />
+
+
+
+
 # Kubernetes Workload Deployment
 
 Successfully deployed a containerized Python API to the EKS cluster.
@@ -195,6 +212,14 @@ Implementation included:
   Kubernetes Service
   External LoadBalancer
   Pod scheduling across worker nodes
+
+Provisioning EKS with Terraform-Pods
+
+<img width="1765" height="802" alt="image" src="https://github.com/user-attachments/assets/33ce80ad-ea57-4db7-9a27-dabd39825b3b" />
+
+
+
+
 
 
 # Networking Implementation
